@@ -3,7 +3,7 @@ name = "SigmaOS-fuse3"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "fuse3 component"
+description = "SigmaOS SigmaOS-fuse3 component"
 upstream = []
 
 [contract]
